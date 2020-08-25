@@ -1,0 +1,6 @@
+Install "npm install @material-ui/core" & "npm install @material-ui/icons" --> React icons
+
+
+Things to note:
+href -> refreshes the whole page
+<Link> -> Dont refresh the page
